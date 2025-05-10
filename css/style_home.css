@@ -3,7 +3,7 @@
     src: url("font1.ttf") format('truetype');
 
     font-family: 'font2';
-    src: url("font2.ttf") format('truetype');
+    src: url("ttf/font2.ttf") format('truetype');
 }
 
 @keyframes annim {
