@@ -57,7 +57,7 @@ h4:active{
     top: 55%;
     left: 50%;
     transform: translate(-50%, -50%);
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(7px);
 
 }
 
@@ -72,7 +72,7 @@ h4:active{
     top: 50%;
     left: 79%;
     transform: translate(-50%, -50%);
-    backdrop-filter: blur(20px);
+    backdrop-filter: blur(70px);
 }
 
 .page-1{
